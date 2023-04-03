@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jianghongping
-- 👀 I’m interested in ChatGPT
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on ML.
-- 📫 i@jiangyd.com
+- 👋 Hi, I’m 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on .
+- 📫 i@jiang
 
 <!---
 jianghongping/jianghongping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
