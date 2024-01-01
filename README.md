@@ -1,8 +1,8 @@
-- 👋 Hi, I’m 
-- 👀 I’m interested in Hongping.
-- 🌱 I’m currently learning drinking.
-- 💞️ I’m looking to collaborate on diving.
-- 📫 i@jiang
+- 👋 Hi, I’m Hongping
+- 👀 I’m interested in drinking.
+- 🌱 I’m currently learning diving.
+- 💞️ I’m looking to collaborate on travel.
+- 📫 i@jianghp
 
 <!---
 jianghongping/jianghongping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
