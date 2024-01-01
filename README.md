@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on .
+- 👀 I’m interested in Hongping.
+- 🌱 I’m currently learning drinking.
+- 💞️ I’m looking to collaborate on diving.
 - 📫 i@jiang
 
 <!---
