@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning diving.
 - 💞️ I’m looking to collaborate on travel.
 - 📫 i@jianghp
+- Best wishes from heart.
+- I prove I am here.
 
 <!---
 jianghongping/jianghongping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
